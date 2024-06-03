@@ -1,4 +1,4 @@
-## 👋 Hi There!
+## 👋 Hi, there!
 My name is Muhamamd Kanzul Fikri, and i'm fresh graduate from Brawijaya University Malang. I'm interested in Frontend especially Flutter👀 .
 matur nuwun!
 
