@@ -1,13 +1,4 @@
 ## 👋 Hi, there!
-My name is Muhamamd Kanzul Fikri, and i'm fresh graduate from Brawijaya University Malang. I'm interested in Frontend especially Flutter👀 .
-matur nuwun!
-
-### 🤔 Kanzul
-📫 I’m currently learning **Flutter, Laravel, React-native, Go**
-
-👨‍💻 See my project at https://kanzul.vercel.app
-
-💬 How to reach me **kanzulwork@gmail.com**
 
 👀 <img height="15px" src="https://komarev.com/ghpvc/?username=kanzulfkr" alt="kanzulfkr">
 
